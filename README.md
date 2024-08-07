@@ -1,5 +1,6 @@
 # neetcode
-Personal notes for neetcode.io courses
+Personal notes for data structures and algorithims. Initial notes based off neetcode.io courses.
+
 Notes are stored as Jupyter Notebooks
 
 *Tier List*

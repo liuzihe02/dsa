@@ -3,7 +3,7 @@ from graphviz import Graph, Source
 
 class TreeNode:
     def __init__(self, key=None,val=0,left=None,right=None):
-        #this is for tree map
+        #this is used only for tree map where we need both key and val
         self.key=key
         #this is used for all BSTs
         self.val = val
