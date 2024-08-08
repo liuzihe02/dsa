@@ -1,4 +1,4 @@
-# neetcode
+# Data Structures and Algorithims
 Personal notes for data structures and algorithims. Initial notes based off neetcode.io courses.
 
 Notes are stored as Jupyter Notebooks
