@@ -14,3 +14,11 @@ Notes are stored as Jupyter Notebooks
 | | | Object-Oriented Design (e.g., Design an LRU cache) | | Binary Search Tree | | |
 | | | Hash Tables | | Greedy | | |
 | | | | | DP + Bottom-up Tabulation | | |
+
+## FAANG
+
+Zack Light made a [video](https://youtu.be/deJBbSdLzjo?si=ra7LI-TYvR_5w3SP) covering the actual algorithims asked by FAANG. These are pretty useful.
+
+Also check out the [company wise repo](https://github.com/liquidslr/leetcode-company-wise-problems) for the raw dataset on company questions
+
+And Zack's [youtube repo](https://github.com/Zackhardtoname/youtube_share) which houses analysis on company questions. I have cloned these repos locally, and used `Live Server` to view the question distribution. *Please* view these visualizations for the questions actually asked.
