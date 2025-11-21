@@ -17,20 +17,7 @@ A comprehensive catalog of algorithms that shaped science, engineering, and comp
 
 ---
 
-## Table of Contents
 
-1. [Numerical Linear Algebra](#1-numerical-linear-algebra)
-2. [Optimization Algorithms](#2-optimization-algorithms)
-3. [Sorting and Searching](#3-sorting-and-searching)
-4. [Signal Processing and Transforms](#4-signal-processing-and-transforms)
-5. [Graph and Network Algorithms](#5-graph-and-network-algorithms)
-6. [Probabilistic and Statistical Methods](#6-probabilistic-and-statistical-methods)
-7. [Cryptography](#7-cryptography)
-8. [Machine Learning and AI](#8-machine-learning-and-ai)
-9. [Computational Geometry and Physics](#9-computational-geometry-and-physics)
-10. [Data Compression and Encoding](#10-data-compression-and-encoding)
-
----
 
 ## 1. Numerical Linear Algebra
 
