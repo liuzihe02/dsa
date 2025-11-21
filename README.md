@@ -1,7 +1,7 @@
 # Data Structures and Algorithims
-Personal notes for data structures and algorithims. Initial notes based off neetcode.io courses.
+Personal notes for data structures and algorithims. Initial notes based off neetcode.io courses. Notes are stored as Jupyter Notebooks.
 
-Notes are stored as Jupyter Notebooks
+These notes are mostly focused on leetcode and interviews for various tech companies
 
 *Prioritization Tier List*
 
@@ -15,10 +15,10 @@ Notes are stored as Jupyter Notebooks
 | | | Hash Tables | | Greedy | | |
 | | | | | DP + Bottom-up Tabulation | | |
 
-## FAANG
+## Question Bank
 
 Zack Light made a [video](https://youtu.be/deJBbSdLzjo?si=ra7LI-TYvR_5w3SP) covering the actual algorithims asked by FAANG. These are pretty useful.
 
-Also check out the [company wise repo](https://github.com/liquidslr/leetcode-company-wise-problems) for the raw dataset on company questions
+Also check out the [company wise repo](https://github.com/liquidslr/leetcode-company-wise-problems) for the raw dataset on company questionbank, which are updated frequently
 
-And Zack's [youtube repo](https://github.com/Zackhardtoname/youtube_share) which houses analysis on company questions. I have cloned these repos locally, and used `Live Server` to view the question distribution. *Please* view these visualizations for the questions actually asked.
+And Zack's [youtube repo](https://github.com/Zackhardtoname/youtube_share) which houses analysis on company questions. I have cloned these repos locally, and used `Live Server` to view the question distribution. View these visualizations for the type questions actually asked.
