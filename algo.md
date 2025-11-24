@@ -11,13 +11,11 @@ While this repository focuses primarily on data structures and the algorithims s
 - http://www.koutschan.de/misc/algorithms.php
 - https://www.computer.org/csdl/magazine/cs/2000/01/c1022/13rRUxBJhBm
 
-Here's a summary written by Sonnet 4-5:
-
-A comprehensive catalog of algorithms that shaped science, engineering, and computation in the 20th and 21st centuries.
+My hope is that in time I would come to be familiar with all these algorithims, so that I would understand most of how the working world works. Here's a summary written by Sonnet 4-5:
 
 ---
 
-
+A comprehensive catalog of algorithms that shaped science, engineering, and computation in the 20th and 21st centuries.
 
 ## 1. Numerical Linear Algebra
 
